@@ -1,0 +1,119 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #ee6d6d;
+}
+#main{
+    width: 800px;
+    height: 1000px;
+    background-color: rgb(248, 248, 248);
+    display: inline-block;
+    font-family: 'Times New Roman', Times, serif;   
+}
+#content{
+    display: flex;
+}
+#left{
+    position: relative;
+    width: 330px;
+    height: 1000px;
+    background-color: #505c69;
+}
+#right{
+    position: relative;
+    width: 470px;
+    height: 1000px;
+}
+.icon1{
+    color: rgb(255, 255, 255);
+    font: roboto, Arial, sans-serif;
+    font-size: 14px;
+    text-align: left;
+    margin: 5px 0;
+
+}
+.icon2{
+    color: #f1b99c;
+    font-size: 14px;
+    text-align: left;
+    padding-left: 0px;
+}
+.icon3{
+    color: rgb(255, 255, 255);
+    font-size: 30px; !important
+}
+.icon4{
+    color: #505c69;
+    text-align: left;
+    padding-left: 25px;
+}
+.icon5{
+    color: black;
+    text-align: left;
+    padding-left: 25px;
+}
+.block-head {
+    text-align: left;
+    color: rgb(255, 255, 255);
+    position: relative;
+    margin-bottom: 15px;
+    font-size: 18px;
+    
+}
+
+.border-bottom-title {
+    border-bottom: solid 3px #f1b99c;
+}
+
+#profile-highcenter{
+    text-align: left;
+    margin-top: 200px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+#profile-high-center{
+    text-align: left;
+    margin-top: 15px;
+    padding-left: 0px;
+    /* padding-right: 25px; */
+}
+#profile-center1{
+    text-align: left;
+    margin-top: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+#profile-center2{
+    text-align: left;
+    margin-top: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+#profile-lowcenter{
+    text-align: left;
+    margin-top: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+#profile-bottom{
+    text-align: left;
+    margin-top: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+#profile-topR{
+    text-align: left;
+    font-size: 25px;
+    /* margin-top: 25px; */
+}
+.d-flex {
+    display: flex;
+    margin: 0px 30px ;
+
+}
+
+.my-5 {
+    margin: 5px 0;
+}
+
